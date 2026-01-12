@@ -10,31 +10,34 @@
 🚀 Interested in building efficient and scalable software  
 
 ---
+## 💻 Tech Stack
 
-## 🛠 Tech Stack
-
-**Languages & Core**
-- Java
-- Data Structures & Algorithms
-
-**Web & Tools**
-- HTML, CSS, JavaScript
-- Git & GitHub
-
-**Currently Learning**
-- Machine Learning
-- Backend Development
+### 🚀 Programming & Core
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A0A0A?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
-
-![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📬 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/ishikagoyaltechee/
+### 🧠 Currently Exploring
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-4B8BBE?style=for-the-badge)
 
+---
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
+---
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishikagoyaltechee/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:ishikagoyal65@gmail.com)
