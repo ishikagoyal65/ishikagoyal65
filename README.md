@@ -87,8 +87,6 @@ MCA Student | Java Developer | DSA Enthusiast | MERN Stack Learner
 
 # 🌟 Featured Projects
 
-# 🌟 Featured Projects
-
 ### 🏢 HR Dashboard
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ishikagoyal65/HR_Dashboard)
