@@ -2,58 +2,36 @@
 <!--                ISHIKA GOYAL GITHUB PROFILE            -->
 <!-- ===================================================== -->
 
+<!-- Profile Banner -->
 <h1 align="center">Hi 👋, I'm Ishika Goyal</h1>
 
-<h3 align="center">Turning Curiosity Into Code 🚀</h3>
+<h3 align="center">
+MCA Student | Java Developer | DSA Enthusiast | MERN Stack Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MCA+Student+@+BHU;Java+Developer;DSA+Enthusiast;MERN+Stack+Learner;Machine+Learning+Explorer;Building+Projects+and+Learning+Daily;Always+Asking+WHY" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishikagoyal65&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Data+Structures+%26+Algorithms;MERN+Stack+Learner;Machine+Learning+Explorer;Building+Full+Stack+Applications;Always+Curious+to+Learn+More" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🖥️ Who Am I?
+## 🚀 About Me
 
-```bash
-$ whoami
+🎓 MCA Student at **Banaras Hindu University (BHU)**
 
-Name        : Ishika Goyal
-Education   : MCA @ Banaras Hindu University
-Location    : Uttar Pradesh, India
+💻 Passionate about **Software Development**, **Java**, and **Data Structures & Algorithms**
 
-Focus       : Java + Data Structures & Algorithms
-Learning    : MERN Stack Development
-Exploring   : Machine Learning & AI
+🌱 Currently learning **MERN Stack Development**
 
-Goal        : Become a Software Development Engineer
-Philosophy  : Stay Curious. Keep Building.
-```
+🧠 Exploring **Machine Learning** and AI concepts
+
+🚀 Interested in building scalable and impactful applications
+
+🔍 Always curious about the WHY and HOW behind technology
+
+---
 
 > *"Every expert was once a beginner who stayed curious."*
-
----
-
-# 🚀 Current Journey
-
-```text
-Java Fundamentals        ████████████████ 100%
-
-Data Structures          █████████████░░░ 85%
-
-Problem Solving          █████████████░░░ 85%
-
-React.js                 ████████░░░░░░░░ 60%
-
-Node.js                  ███████░░░░░░░░░ 55%
-
-MongoDB                  ██████░░░░░░░░░░ 50%
-
-Machine Learning         █████░░░░░░░░░░░ 40%
-```
 
 ---
 
