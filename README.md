@@ -87,17 +87,26 @@ MCA Student | Java Developer | DSA Enthusiast | MERN Stack Learner
 
 # 🌟 Featured Projects
 
+# 🌟 Featured Projects
+
 ### 🏢 HR Dashboard
-Role-based user authentication and employee management system.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ishikagoyal65/HR_Dashboard)
+
+Employee management and authentication system.
 
 ### 🚗 Employee Navigation System
-Navigation platform built using JsonPowerDB and JavaScript.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ishikagoyal65/EmployeeNavigation)
+
+Navigation platform using JsonPowerDB.
 
 ### 🍽️ No Fuss Feast
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ishikagoyal65/No-Fuss-Feast)
+
 Recipe and cooking guidance platform.
 
-### 🌐 Personal Portfolio
-Showcasing projects, skills, and learning journey.
 
 ---
 
