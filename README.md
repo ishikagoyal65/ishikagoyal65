@@ -128,14 +128,6 @@ My personal developer portfolio showcasing projects, skills, experience, and jou
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ishikagoyal65&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 # 📈 Activity Graph
 
 <p align="center">
