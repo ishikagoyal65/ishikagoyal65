@@ -107,6 +107,13 @@ Navigation platform using JsonPowerDB.
 
 Recipe and cooking guidance platform.
 
+### 🌐 Personal Portfolio
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ishikagoyal65/my_portfolio)
+[![Live](https://img.shields.io/badge/Live-Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ishika-goyal.vercel.app/)
+
+My personal developer portfolio showcasing projects, skills, experience, and journey as a developer.
+
 
 ---
 
