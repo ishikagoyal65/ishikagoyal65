@@ -13,6 +13,8 @@ MCA Student | Java Developer | DSA Enthusiast | MERN Stack Learner
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Data+Structures+%26+Algorithms;MERN+Stack+Learner;Machine+Learning+Explorer;Building+Full+Stack+Applications;Always+Curious+to+Learn+More" alt="Typing SVG" />
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ## 🚀 About Me
