@@ -1,3 +1,4 @@
+````markdown
 <!-- ===================================================== -->
 <!--                ISHIKA GOYAL GITHUB PROFILE            -->
 <!-- ===================================================== -->
@@ -10,23 +11,22 @@ MCA Student | Java Developer | DSA Enthusiast | MERN Stack Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Data+Structures+%26+Algorithms;MERN+Stack+Learner;Machine+Learning+Explorer;Building+Full+Stack+Applications;Always+Curious+to+Learn+More" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Python+Developer;Data+Structures+%26+Algorithms;MERN+Stack+Learner;Machine+Learning+Explorer;Building+Full+Stack+Applications;Always+Curious+to+Learn+More" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishikagoyal65&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 MCA Student at **Banaras Hindu University (BHU)**
 
-💻 Passionate about **Software Development**, **Java**, and **Data Structures & Algorithms**
+💻 Passionate about **Software Development, Java, Python, and Data Structures & Algorithms**
 
-🌱 Currently learning **MERN Stack Development**
+🌱 Currently learning **MERN Stack Development** and expanding my backend development skills
 
 🧠 Exploring **Machine Learning** and AI concepts
 
@@ -39,11 +39,13 @@ MCA Student | Java Developer | DSA Enthusiast | MERN Stack Learner
 > *"Every expert was once a beginner who stayed curious."*
 
 ---
+
 # 🌌 Tech Universe
 
 ### 👨‍💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🎨 Frontend
@@ -68,6 +70,7 @@ MCA Student | Java Developer | DSA Enthusiast | MERN Stack Learner
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ---
 
 # 🎯 What I'm Working On
@@ -94,11 +97,15 @@ MCA Student | Java Developer | DSA Enthusiast | MERN Stack Learner
 
 Employee management and authentication system.
 
+---
+
 ### 🚗 Employee Navigation System
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ishikagoyal65/EmployeeNavigation)
 
 Navigation platform using JsonPowerDB.
+
+---
 
 ### 🍽️ No Fuss Feast
 
@@ -106,13 +113,15 @@ Navigation platform using JsonPowerDB.
 
 Recipe and cooking guidance platform.
 
+---
+
 ### 🌐 Personal Portfolio
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ishikagoyal65/my_portfolio)
+
 [![Live](https://img.shields.io/badge/Live-Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ishika-goyal.vercel.app/)
 
 My personal developer portfolio showcasing projects, skills, experience, and journey as a developer.
-
 
 ---
 
@@ -120,7 +129,7 @@ My personal developer portfolio showcasing projects, skills, experience, and jou
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ishikagoyal65&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikagoyal65&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -147,8 +156,13 @@ My personal developer portfolio showcasing projects, skills, experience, and jou
 ```javascript
 const ishika = {
   education: "MCA @ BHU",
-  languages: ["Java", "JavaScript"],
-  
+
+  languages: [
+    "Java",
+    "Python",
+    "JavaScript"
+  ],
+
   currentlyLearning: [
     "React.js",
     "Node.js",
@@ -216,3 +230,4 @@ const ishika = {
 ⭐ Thanks for visiting my profile!
 
 </div>
+````
